@@ -27,7 +27,7 @@ Here’s a detailed description of your projects to add to GitHub:
    - **livelink:** https://aman8710.netlify.app/
 ---
 
-### 2. **Ridex - Car Rental Website**
+### 2. **4wheeler Rental Website**
    - **Description:** Developed a fully responsive car rental website using **HTML, CSS, and JavaScript**. The website offers a seamless experience across all devices, allowing users to book cars for rent. Features include car listings, booking forms, and responsive navigation.
    - **Features:**
      - User-friendly interface for easy car selection
