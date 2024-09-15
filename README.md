@@ -1,3 +1,4 @@
+## About me
 - 👋 Hi, I’m **Aman Mishra**
 - 👀 I’m interested in C++, full-stack development, and building web applications
 - 🌱 I’m currently learning JavaScript, python, DBMS
