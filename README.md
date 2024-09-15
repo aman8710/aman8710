@@ -1,3 +1,4 @@
+
 ## About me
 - 👋 Hi, I’m **Aman Mishra**
 - 👀 I’m interested in C++, full-stack development, and building web applications
@@ -44,7 +45,9 @@ Here’s a detailed description of your projects to add to GitHub:
      - Lightweight and fast
    - **Tech Stack:** HTML, CSS, JavaScript  
 ---
+## Download Resume
 
+[![Download Resume](https://img.shields.io/badge/Download-Resume-blue)](https://github.com/user-attachments/files/17007770/Aman_cv.pdf)
 <!---
 aman8710/aman8710 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
